@@ -1,0 +1,40 @@
+_repo: The-Makers-of-Canada--Index-and-Dictionary-of-Canadian-History_32699
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Burpee, Lawrence J. (Lawrence Johnstone)
+    aliases:
+    - Burpee, L. J. (Lawrence Johnstone)
+    - Burpee, Lawrence Johnstone
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '28364'
+    url: http://www.gutenberg.org/2009/agents/28364
+    wikipedia: http://en.wikipedia.org/wiki/Lawrence_Johnston_Burpee
+  - agent_name: Doughty, Arthur G. (Arthur George), Sir
+    aliases:
+    - Doughty, A. G. (Arthur George), Sir
+    - Doughty, Arthur George, Sir
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '2072'
+    url: http://www.gutenberg.org/2009/agents/2072
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Doughty
+description: ''
+gutenberg_issued: '2010-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canada -- Biography'
+- !lcsh 'Canada -- History'
+title: 'The Makers of Canada: Index and Dictionary of Canadian History'
+url: http://www.gutenberg.org/ebooks/32699
