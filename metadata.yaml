@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2072
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Doughty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32699#The-Makers-of-Canada--Index-and-Dictionary-of-Canadian-History
 gutenberg_issued: '2010-06-05'
 gutenberg_type: Text
 identifiers:
